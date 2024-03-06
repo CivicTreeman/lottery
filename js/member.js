@@ -49,15 +49,5 @@ var member=[
 {"phone":"No.48","name":"梅执礼"},
 {"phone":"No.49","name":"辛其物"},
 {"phone":"No.50","name":"战豆豆"},
-{"phone":"No.51","name":"北齐太后"},
-{"phone":"No.52","name":"肖恩"},
-{"phone":"No.53","name":"庄墨韩"},
-{"phone":"No.54","name":"上杉虎"},
-{"phone":"No.55","name":"谭武"},
-{"phone":"No.56","name":"沈重"},
-{"phone":"No.57","name":"沈姑娘"},
-{"phone":"No.58","name":"何道人"},
-{"phone":"No.59","name":"程巨树"},
-{"phone":"No.60","name":"苦荷"},
-{"phone":"No.61","name":"狼桃"}
+{"phone":"No.51","name":"北齐太后"}
 ]
