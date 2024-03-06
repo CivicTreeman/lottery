@@ -18,5 +18,6 @@ var member=[
 {"phone":"No.17","name":"明艳动人"},
 {"phone":"No.18","name":"艳冠群芳"},
 {"phone":"No.19","name":"人间尤物"},
-{"phone":"No.20","name":"仙女下凡"}
+{"phone":"No.20","name":"倾国倾城"},
+{"phone":"No.21","name":"仙女下凡"}
 ]
